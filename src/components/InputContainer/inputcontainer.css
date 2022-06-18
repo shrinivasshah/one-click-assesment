@@ -1,0 +1,49 @@
+.input-container {
+    width: 100%;
+    padding: 1rem 0;
+    color: #fdfdfd ;
+}
+
+.label {
+    font-size: 1.6rem;
+    margin-bottom: 1.2rem;
+    color: #FFF;
+
+}
+
+
+.input-field-holder {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    /* background-color: rgba(187, 187, 187, 0.546); */
+    border-radius:1.6rem;
+    backdrop-filter: blur(.6rem);
+    box-shadow: inset 6px 6px 7px #1c1f21,
+            inset -6px -6px 7px #242729;
+}
+
+.dollar {
+    font-size: 1.6rem;
+    margin-right: .5rem;
+    font-weight: 600;
+}
+
+input {
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 1.6rem;
+    background: transparent;
+    font-weight: 600;
+    color:#fdfdfd;
+}
+
+.input-price {
+    width: 8rem;
+    font-size: 1.6rem;
+    background: transparent;
+    font-weight: 600;
+}

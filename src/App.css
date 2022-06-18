@@ -1,0 +1,12 @@
+.App {
+ background-color: #161718;
+ min-width: 100vw;
+ min-height: 100vh;
+}
+
+
+
+.container {
+    max-width: 60%;
+    margin: auto;
+}

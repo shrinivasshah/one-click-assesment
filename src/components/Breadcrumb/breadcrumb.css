@@ -1,0 +1,10 @@
+.home-page-button:hover {
+    color: rgb(175, 174, 174);
+    cursor: pointer;
+}
+
+.homepage-header {
+    font-size: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}

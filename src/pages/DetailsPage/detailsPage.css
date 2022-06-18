@@ -1,0 +1,30 @@
+.detaispage {
+    width: 100vw;
+    height: 100vh;
+}
+
+.card {
+    padding: 1.6rem;
+    margin: auto;
+    max-width: 60rem;
+    min-height: 49rem;
+    background-color: #202325f4;
+    border-radius: .8rem;
+    margin-bottom: 3rem;
+    box-shadow:  6px 6px 12px #121213,
+             -6px -6px 12px #1a1c1d;
+}
+
+.card-container {
+    margin-top: 1.6rem;
+    padding: 1rem 2rem;
+    border-radius: .8rem;
+    background-color: #28333369;
+    box-shadow:  6px 6px 12px #1c1f21,
+    -6px -6px 12px #242729;
+}
+
+
+.trade-button:hover {
+    background: #5347b1;
+}

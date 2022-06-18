@@ -1,0 +1,19 @@
+.trade-button {
+    text-align: center;
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 900;
+    background-color: #6e5eed;
+    border-radius: 0.8rem;
+    margin-top: 1.6rem;
+    border: none;
+    color: #fff;
+}
+
+.summary-button-link {
+    text-decoration: none;
+}
